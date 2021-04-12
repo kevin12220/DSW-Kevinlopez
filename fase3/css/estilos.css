@@ -1,0 +1,22 @@
+header{
+    background-color: cornsilk;
+}
+
+nav{
+    background-color: black;
+}
+
+section{
+    
+    background-color: cornsilk;
+}
+
+aside{
+    float: left;
+    background-color: black;
+}
+
+footer{
+    background-color: cornsilk;
+    color: black;
+}
